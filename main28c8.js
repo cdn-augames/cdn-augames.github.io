@@ -163,7 +163,7 @@
                 cookieStatementUrl: window.SITE_OPTIONS.cookieStatementUrl,
                 thirdPartiesUrl: window.SITE_OPTIONS.thirdPartiesUrl,
                 kidsPrivacyStatementUrl: window.SITE_OPTIONS.kidsPrivacyStatementUrl
-            }, "https://ubg9.com")
+            }, "https://AUG44.com")
         }), 5e3), window.addEventListener("message", (function(e) {
             e.data && "open-privacy-settings" === e.data && window.Optanon && window.Optanon.ToggleInfoDisplay()
         }), !1)
