@@ -163,7 +163,7 @@
                 cookieStatementUrl: window.SITE_OPTIONS.cookieStatementUrl,
                 thirdPartiesUrl: window.SITE_OPTIONS.thirdPartiesUrl,
                 kidsPrivacyStatementUrl: window.SITE_OPTIONS.kidsPrivacyStatementUrl
-            }, "https://AUG44.com")
+            }, "https://AUG66.github.io")
         }), 5e3), window.addEventListener("message", (function(e) {
             e.data && "open-privacy-settings" === e.data && window.Optanon && window.Optanon.ToggleInfoDisplay()
         }), !1)
