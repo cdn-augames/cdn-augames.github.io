@@ -1,4 +1,5 @@
 // ubg235 Server
+// ugb235 spying removed patch :D -aug66
 const REDIRECT_GUIDE= {
     "1v1lol": "https://AUG66.github.io/1v1lol.html",
     "3d-bowling": "https://AUG66.github.io/3d-bowling.html",
